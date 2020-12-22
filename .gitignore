@@ -1,0 +1,7 @@
+venv/
+/venv
+venv
+task2/twitter_credentials.json
+task3/partB/stackoverflow*
+task2/output.json
+task2/*json
